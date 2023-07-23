@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="tanha014" /> </p>
 <a href="https://twitter.com/tanha014">
-  <img align="left" alt="Sohel's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+  <img align="left" alt="Tanha's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
-<a href="https://www.linkedin.com/in/mrsohelcse/">
-  <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+<a href="https://www.linkedin.com/in/Nusrat Jahan Tanha/">
+  <img align="left" alt="Tanha's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://github.com/Nusrat-Jahan-Tanha ">
   <img align="left" alt="Tanha's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
