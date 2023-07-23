@@ -1,6 +1,6 @@
 @@ -1,4 +1,4 @@
 ## Hi, I'm [Nusrat Jahan Tanha](https://www.stopstalk.com/user/profile/Taalpatar_Shepai) 👋
-## Hi, I'm [Nusrat Jahan Tanha](https://www.stopstalk.com/user/profile/Nusrat Jahan Tanha) 👋
+## Hi, I'm [Nusrat Jahan Tanha](https://www.stopstalk.com/user/profile/Nusrat-Jahan-Tanha) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
 <a href="https://twitter.com/mrsohelcse">
