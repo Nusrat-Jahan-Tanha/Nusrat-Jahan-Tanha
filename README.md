@@ -15,8 +15,8 @@
 <a href="https://instagram.com/ig_sohelrana/">
   <img align="left" alt="Sohel's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
-<a href="https://www.facebook.com/mrsohelcse/">
-  <img align="left" alt="Sohel's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
+<a href="https://accountscenter.facebook.com/profiles/100047546054094/">
+  <img align="left" alt="Tanha's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 <br/>
 <br/>
