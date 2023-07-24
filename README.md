@@ -15,7 +15,7 @@
 <a href="https://accountscenter.facebook.com/profiles/17841441140132022/">
   <img align="left" alt="Tanha's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
-<a href="https://accountscenter.facebook.com/profiles/100047546054094/">
+<a href="https://www.facebook.com/profile.php?id=100047546054094&mibextid=ZbWKwL   /">
   <img align="left" alt="Tanha's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 <br/>
