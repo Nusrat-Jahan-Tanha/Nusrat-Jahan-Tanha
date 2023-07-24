@@ -12,7 +12,7 @@
 <a href="https://github.com/Nusrat-Jahan-Tanha ">
   <img align="left" alt="Tanha's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
-<a href="https://accountscenter.facebook.com/profiles/17841441140132022/">
+<a href="https://www.facebook.com/profile.php?id=100047546054094&mibextid=ZbWKwL  /">
   <img align="left" alt="Tanha's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100047546054094&mibextid=ZbWKwL   /">
